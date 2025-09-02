@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a5b9b49b7b447f448a1c4576692b87f, type: 3}
+  m_Name: Candy0
+  m_EditorClassIdentifier: 
+  weaponId: 5
+  weaponName: Candy0
+  weaponPrefab: {fileID: 5474681962788835493, guid: cd56ef3d7d782884b9f632ab64f1d664, type: 3}
+  bulletPrefab: {fileID: 5474681962788835493, guid: b95ae43c067b8f64eaa51cc6ca30dc94, type: 3}
+  bulletSpeed: 5

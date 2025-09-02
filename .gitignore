@@ -1,0 +1,53 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!*.meta
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+Thumbs.db
+
+# ============ #
+# Visual Studio #
+# ============ #
+.vs/
+*.user
+*.suo
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.swp
+
+# Rider
+.idea/
+*.sln.iml
+
+# Auto-generated VS/Unity files
+ExportedObj/
+.consulo/
+
+# ============ #
+# Large/Binary #
+# ============ #
+*.unitypackage
+*.zip
+*.rar
+*.7z
+*.mp3
+*.wav
+*.ogg
+*.apk
+*.aab

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 344aef1ead828794d9c51e977f13edf5, type: 3}
+  m_Name: Arrow 6
+  m_EditorClassIdentifier: 
+  helmetId: 6
+  helmetName: HeadPhone
+  helmetPrefab: {fileID: 1053133675508593027, guid: f365551b14a37f949a7aaa0016686053, type: 3}
